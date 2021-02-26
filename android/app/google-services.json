@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616456638886",
+    "project_id": "flutterproject-31aee",
+    "storage_bucket": "flutterproject-31aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616456638886:android:aeedc487c1f24baae3bf67",
+        "android_client_info": {
+          "package_name": "com.kalyaniaura.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616456638886-bgus9eqap5vt1kub7if83obqfkbgq8gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiudqQ7HUpP2Eb3z7e25TF7QX5LUy7xtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616456638886-bgus9eqap5vt1kub7if83obqfkbgq8gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
